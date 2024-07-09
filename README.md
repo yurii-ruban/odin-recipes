@@ -9,3 +9,6 @@
 
 ## Purpose
 The website is used to represent recipes book for different dishes I love
+
+## Language
+Українська
