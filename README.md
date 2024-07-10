@@ -1,6 +1,9 @@
 # Odin Recipes
 *Odin Recipes* project from [The Odin Project](https://www.theodinproject.com/about) course
 
+## Preview link
+https://yurii-ruban.github.io/odin-recipes/
+
 ## Skills
  - Basic HTML structure and boilerplate for any webpage
  - W3 HTML validation and markup warning detection
