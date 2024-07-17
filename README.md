@@ -11,6 +11,10 @@ https://yurii-ruban.github.io/odin-recipes/
     - Text Formatting
     - Lists, Images, Links (with opener regulations)
     - Working with Id, Class attributes
+- CSS
+    - Type, Class, Id selectors
+    - Grouping, Chaining, Combinator operations
+    - Typography properties (families, colors, weightness, etc.)
 - Git
     - Commit-message conventions
     - Basic local-remote interaction

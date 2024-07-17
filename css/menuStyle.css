@@ -15,3 +15,40 @@ a {
     color:white;
     font-family: Verdana, sans-serif;
 }
+
+.gridLayout {
+    display: flex;
+    padding: 3rem 3rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+}
+
+.element {
+    display: flex;
+    margin: 10px;
+    flex: 1;
+
+    width: 300px;
+    height: 300px;
+    padding: 1rem 1rem;
+    border: 1px solid #f77b76;
+    border-radius: 10px;
+    vertical-align: middle;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.composer {
+    width: auto;
+    height: auto;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
