@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    background-color: #232730;
+}
+
+#mainHeader {
+    color: #f77b76;
+    font-family: Lora, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
+    color:white;
+    font-family: Verdana, sans-serif;
+}
