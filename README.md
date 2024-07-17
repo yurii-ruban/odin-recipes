@@ -5,11 +5,16 @@
 https://yurii-ruban.github.io/odin-recipes/
 
 ## Skills
- - Basic HTML structure and boilerplate for any webpage
- - W3 HTML validation and markup warning detection
- - Text Formatting
- - Lists, Images, Links (with opener regulations)
- - Git (Commit-message conventions, local-remote interacion)
+ - HTML
+    - Basic HTML structure and boilerplate for any webpage
+    - W3 HTML validation and markup warning detection
+    - Text Formatting
+    - Lists, Images, Links (with opener regulations)
+    - Working with Id, Class attributes
+- Git
+    - Commit-message conventions
+    - Basic local-remote interaction
+    - Working with fork repositories
  - Markdown documentation
 
 ## Purpose
