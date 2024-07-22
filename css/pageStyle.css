@@ -1,5 +1,4 @@
 html, body {
-    height: 100%;
     background-color: #232730;
 }
 
@@ -18,8 +17,13 @@ html, body {
     color: rgb(165, 159, 159);
 }
 
+ul .text {
+    margin-bottom: 1em;
+}
+
 .image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-  }
+}
+
