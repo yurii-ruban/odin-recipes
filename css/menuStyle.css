@@ -10,41 +10,50 @@ html, body {
     text-align: center;
 }
 
-a {
+.element .composer a {
+    display: inline-block;
+    font-family: Verdana, sans-serif;
+    margin-top: 0.5em;
+    text-decoration: none;
+}
+
+.element .composer a:link {
     font-size: 18px;
     color:white;
-    font-family: Verdana, sans-serif;
+}
+
+.element .composer a:visited {
+    font-size: 18px;
+    color: green;
+}
+
+.element .composer a:hover {
+    font-size: 16px;
+    color:rgb(195, 120, 28);
 }
 
 .gridLayout {
     display: flex;
-    padding: 3rem 3rem;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    padding: 3em 3em;
     text-align: center;
+    flex-wrap: wrap;
+    justify-content: center;
+
 }
 
 .element {
     display: flex;
     margin: 10px;
-    flex: 1;
+    flex-grow: 0;
+    flex-shrink: 1;
 
     width: 300px;
     height: 300px;
-    padding: 1rem 1rem;
     border: 1px solid #f77b76;
-    border-radius: 10px;
-    vertical-align: middle;
-    margin-left: 10px;
-    margin-right: 10px;
+    border-radius: 40px;
 
     justify-content: center;
     align-items: center;
-}
-
-.composer {
-    width: auto;
-    height: auto;
 }
 
 .image {
